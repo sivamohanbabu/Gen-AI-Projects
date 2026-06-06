@@ -1,1 +1,1 @@
-Basic Project on Gen AI related to AI Story Telling
+Basic Project on GEN AI - AI Story Telling
